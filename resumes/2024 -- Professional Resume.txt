@@ -1,0 +1,63 @@
+﻿Taaruni Ananya
+470-556-4680 | taaruni.ananya@gmail.com | www.linkedin.com/in/taaruni-ananya
+SUMMARY
+  
+Innovative software engineer with 2 years of experience developing websites and projects. Specialties include: collaborating on projects with peers, addressing real-world problems through coding, and passionate eagerness to learn.
+
+
+TECHNICAL SKILLS: Experience in Object-Oriented Programming, HTML/CSS, JavaScript, Python, Java, WordPress
+
+
+EDUCATION
+  
+Georgia State University
+	Atlanta, Georgia
+	* Honors College of Arts & Science, Department of Computer Science                                            Expected Graduation: May 2027
+* Relevant current & future courses: Principles of Computer Science, Data Structures and Algorithms, System Level Programming, Design & Analysis: Algorithms, CTW: Software Development, Operating Systems
+University of Cincinnati
+	Cincinnati, Ohio
+	* College of Engineering & Applied Science (Dual Enrollment)                                                                May 2022–August 2022
+* Courses: Website Management, Fundamentals of Website Development, Computer Programming
+Girls Who Code (Immersion Program)
+	Remote
+	* Courses: HTML & CSS, JavaScript, Cybersecurity, Cryptography, Data Science                                             Summer 2021 & 2022
+* Gained insights from industry professionals, including technicians and CEOs. Advocated for Women in STEM.
+CodePath 
+	Remote
+	* Programs: E3 – Web Development,  iOS Development, Technical Interview Prep, Cybersecurity                                   Summer 2024
+Babson College
+	Remote
+	* Course: Rise to Leadership: Become a CEO                                                                 March 2024–Present
+
+
+PROJECTS
+  
+EnnBooks (Book Blog)
+	July 2021–Present
+	* Design and create a website to blog about books utilizing Web Development Cycle.
+* Practice programming skills, maintain, and improve site to create aesthetic and user-friendly designs.
+* Accomplish website aesthetics by applying CSS to improve website design and JavaScript for better functionality.
+ATLAAR (Informational Website)
+	November 2023–February 2024
+	* Designed and created a website to spread awareness of Asian representation in Hollywood with a focus on Avatar: the Last Airbender.
+* Integrated coding techniques and JavaScript with English project for an innovative digital platform.
+* Recognized with nomination for a university-wide English department award.
+CERTIFICATIONS
+  
+Girls Who Code (Summer Immersion Program)
+	Summer 2021 & 2022
+	* HTML & CSS, JavaScript, Cybersecurity, Cryptography, Data Science
+EXTRACURRICULARS
+Girls Who Code (Club)
+	August 2023–Present
+	* Engage in career-focused learning meetings for career-readiness.
+* Foster peer and employer connections through active participation in social events within the computer science/software engineering field.
+Girls ++/Programming/Web Development (Clubs)
+	August 2023–Present
+	* Attend coding specific events to expand out-of-classroom skills.
+* Participate in club activities to strengthen technical proficiency and foster community connections.
+Author Interviewer/Book Influencer at Simon & Schuster
+	March 2020–Present
+	* Promote and market for authors and publishers through content creation and editing, resulting in 36% increase of engagement..
+* Blend CS knowledge of algorithms to track trends on Instagram and writing skills to attract followers, advancing outreach.
+* Receive books such as Advanced Reader Copies and manuscripts from authors and publishers requesting reviews and promotion.
