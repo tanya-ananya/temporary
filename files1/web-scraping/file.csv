@@ -1,0 +1,499 @@
+Rank,Company Name,3 Year Growth,Industry,State,City
+1,Furst Group,42389%,,New Jersey,Shamong
+2,Telegroup,25753%,,Iowa,Fairfield
+3,DPR Construction,25302%,Construction,California,Redwood City
+4,Axion,25023%,,California,South San Francisco
+5,International Textiles/Rug Barn,24291%,,South Carolina,Abbeville
+6,ASC Network Corporation,15443%,,California,Pasadena
+7,Matrix Telecom,14543%,,Texas,Fort Worth
+8,United Vision Group,13238%,,New York,Ossining
+9,KPR Sports International,11879%,,Pennsylvania,King of Prussia
+10,American Ophthalmic,9625%,,Florida,Winter Park
+11,Simplified Employment Services,9410%,,Michigan,Sterling Heights
+12,TriNet,8363%,,California,Dublin
+13,Simple Technology,7794%,Human Resources,California,Santa Ana
+14,Information Technology Solutions,7784%,,Virginia,Hampton
+15,Oasis Imaging Products.,7482%,,New Hampshire,Nashua
+17,Benchmarq Microelectronics,6517%,,Texas,Carrollton
+18,BORN Information Services,6425%,,Minnesota,Wayzata
+19,Diamond Key Homes,6228%,,Arizona,Phoenix
+20,Guiltless Gourmet,6204%,,Texas,Austin
+21,Logic Works,6058%,,New Jersey,Princeton
+22,Holland Group,5905%,,Tennessee,Murfreesboro
+23,Biosite Diagnostics,5771%,,California,San Diego
+24,Healthcare Recoveries,5396%,,Kentucky,Louisville
+25,PageMart,5201%,,Texas,Dallas
+26,Hub Group Distribution Services,4927%,,Illinois,Arlington Heights
+27,Tivoli Systems,4859%,,Texas,Austin
+28,SECOR International,4684%,,Washington,Bellevue
+29,Storybook Heirlooms,4436%,,California,Foster City
+30,Select Comfort Corp.,4302%,,Minnesota,Minneapolis
+31,Health Tech Industries,4112%,,Illinois,South Holland
+32,NIE International,3952%,,Arizona,Phoenix
+33,Megabyte International,3721%,,Georgia,Norcross
+34,Mac USA,3714%,,Minnesota,Edina
+35,Sprint Staffing,3663%,,Florida,Tampa
+36,ShowCase Corporation,3195%,,Minnesota,Rochester
+37,Counter Technology,3157%,,Maryland,Bethesda
+38,Advanced Technical Resources,3088%,,California,Sunnyvale
+39,Calsouth Corporation,3025%,,Texas,Houston
+40,Optical Laser,3007%,,California,Huntington Beach
+41,GB Tech,2930%,,Texas,Houston
+42,PRT Corporation of America,2910%,,New York,New York City
+43,Sendai Media Group,2906%,,Illinois,Lombard
+44,Hall Kinion & Assoc.,2897%,Engineering,California,San Jose
+45,Levenger Company,2845%,,Florida,Delray Beach
+46,Vektron International,2842%,,Texas,Grand Prairie
+47,Engineered Endeavors,2809%,,Ohio,Newbury
+48,Working Assets Funding Service,2775%,,California,San Francisco
+49,SunDisk Corp.,2774%,,California,Santa Clara
+50,Insync Systems,2773%,,California,Milpitas
+51,Interlink Group,2728%,,Colorado,Denver
+52,Bottomline Technologies,2728%,,New Hampshire,Portsmouth
+53,SOTAS,2687%,,Maryland,Rockville
+54,EB Services,2647%,Corporate Services,North Carolina,Charlotte
+55,Wexford Builders,2613%,,Michigan,Ann Arbor
+56,Portable Products,2603%,,Minnesota,St Paul
+57,Universal Tax Systems,2593%,,Georgia,Rome
+58,Visionary Design Systems,2586%,,California,Sunnyvale
+59,Desktop Data,2574%,,Massachusetts,Waltham
+60,Cosmopolitan,2574%,,Maryland,Columbia
+61,Core Resources, Inc.,2545%,,Ohio,Cincinnati
+62,Davis Companies,2508%,,Massachusetts,Marlborough
+63,MicroHelp,2442%,,Georgia,Marietta
+64,TSI Soccer Corp.,2440%,,North Carolina,Durham
+65,Cal Fresh Produce,2429%,,California,Sacramento
+66,Advanced Pollution Instrumentation,2414%,,California,San Diego
+67,Turner Investment Partners,2354%,,Pennsylvania,Berwyn
+68,Color Image,2337%,,Georgia,Norcross
+69,Edelman Financial Center, The,2310%,,Virginia,Fairfax
+70,Ma Laboratories,2303%,,California,San Jose
+71,Clam Associates,2526%,,Massachusetts,Cambridge
+72,Excel Communications,2281%,,Texas,Dallas
+73,Remtech Services,2248%,,Virginia,Newport News
+74,Atlantic Cellular,2235%,Computer Hardware,Rhode Island,Providence
+75,Lantronix,2234%,,California,Irvine
+76,FEI America,2216%,,Oregon,Lake Oswego
+77,KPR Holdings,2121%,,Texas,Fort Worth
+78,Intcomex,2114%,,Florida,Miami
+79,CardMember Publishing,2067%,,Connecticut,Stamford
+80,AEM, Inc,2060%,,California,San Diego
+81,Pinnacle Group (Alabama),2024%,,Alabama,Athens
+82,America II Corp.,1999%,,Florida,Clearwater
+83,Pete's Brewing Company,1994%,,California,Palo Alto
+84,IntelliSell,1978%,,Nebraska,Omaha
+85,Paige's Security Services,1974%,,California,Marina
+86,Neutral Posture Ergonomics, Inc.,1946%,,Texas,Bryan
+87,Taitron Components,1899%,,California,Santa Clarita
+88,Digital Systems Research,1890%,,Virginia,Arlington
+89,Racing Champions,1877%,,Illinois,Glen Ellyn
+90,Precision Tube Technology,1874%,,Texas,Houston
+91,i2 Technologies,1865%,,Texas,Dallas
+92,ADNET Telemanagement,1856%,,California,Santa Ana
+93,Aquatic Industries,1856%,,Texas,Leander
+94,Laura Lee Limited,1852%,,Texas,Fort Worth
+95,Primary Rate,1816%,,New Hampshire,Salem
+96,Access America Telemanagement,1812%,,Missouri,Chesterfield
+97,KRA Corporation,1798%,,Maryland,Silver Spring
+98,Van Bloem,1765%,,Georgia,Cumming
+100,Ameristar Technologies,1754%,,Delaware,New Castle
+101,Excel Temp,1740%,,Minnesota,Edina
+102,Netforce MTI (Comdisco Network),1705%,,Minnesota,Minnetonka
+103,Transaction Information Systems,1705%,,New York,New York City
+104,HRM Resources,1694%,,New York,New York City
+105,Infinite Technology Group,1691%,IT Services,New York,Mineola
+106,Eliassen Group,1682%,,Massachusetts,Reading
+107,TFM-Remanufactured Office Furniture,1677%,,Michigan,Lansing
+108,Digital Consulting and Software Services,1670%,,Texas,Sugar Land
+109,United Science Industries,1644%,,Illinois,Woodlawn
+110,Computer Access,1641%,,Colorado,Englewood
+111,Spartan Forest Products,1638%,,North Carolina,Greensboro
+112,FWB,1630%,,California,Menlo Park
+113,Advanced Hardware Architectures,1626%,,Washington,Pullman
+114,Pelican Group,1616%,,Minnesota,Bloomington
+115,Shamrock Computer Resources,1602%,Health Services,Minnesota,Minneapolis
+116,Space & Asset Management,1594%,,Ohio,Dayton
+117,UroCor,1576%,,Oklahoma,Oklahoma City
+118,AppleOne Employment Services of Colorado,1565%,,Colorado,Fort Collins
+119,Club One,1561%,,California,San Francisco
+120,Tekno,1550%,,Kentucky,Cave City
+121,T.T.C., Illinois,1548%,,Illinois,Kankakee
+122,Precision Computer Service (ST Louis Park, MN),1547%,,Minnesota,St Louis Park
+123,Preferred Technology,1546%,,California,San Francisco
+124,Country Peddlers and Co. of America,1531%,,Illinois,Tinley Park
+125,First Source International,1527%,,California,Aliso Viejo
+126,Pen Group, Inc.,1527%,,Missouri,Springfield
+127,McAlisters Gourmet Deli,1513%,,Mississippi,Oxford
+128,Corporate Telemanagement Group,1491%,,South Carolina,Greenville
+129,Precision Computer Service,1475%,,Oklahoma,Oklahoma City
+130,PharMingen,1470%,,California,San Diego
+131,McDonald Mobile Homes,1445%,,Oklahoma,Tulsa
+132,Computer Professionals,1437%,,South Carolina,Lake Wylie
+133,Buztronics,1428%,,Indiana,Indianapolis
+134,Zeller Electric of Buffalo,1412%,,New York,Buffalo
+135,Accura Fiberglass Products,1400%,Construction,Texas,Madisonville
+136,Woodstock International,1399%,,Washington,Bellingham
+137,COMSO,1378%,,Maryland,Greenbelt
+138,Homefix Custom Remodeling,1375%,,Maryland,Baltimore
+139,EnSafe,1374%,,Tennessee,Memphis
+140,Contract Manufacturer,1364%,,Oklahoma,Madill
+141,Marketing & Research Resources,1360%,,Maryland,Frederick
+142,Medimetrix Group,1358%,,Ohio,Cleveland
+143,R.J. Gordon & Co.,1357%,,California,Los Angeles
+144,GI Apparel,1351%,,New Jersey,Farmingdale
+145,White Line Trucking,1348%,,Florida,Jacksonville
+146,Executive Presentations.,1348%,,Maryland,Rockville
+147,Dasco Companies,1340%,,Florida,West Palm Beach
+148,Choate Construction Co.,1335%,,Georgia,Marietta
+149,Fitigues,1329%,,Illinois,Chicago
+150,Jeffries Technologies,1323%,,California,Los Angeles
+151,Encore Productions,1318%,,Nevada,Las Vegas
+152,E.M.C. Automation Inc.,1309%,,Texas,Austin
+153,Smart Modular Technologies,1305%,,California,Fremont
+154,Everyday Learning,1295%,,Illinois,Chicago
+155,Teltrust,1289%,Business Products & Services,Utah,Salt Lake City
+156,Novare Services,1285%,,Ohio,Cincinnati
+157,Executive Systems and Software,1279%,,Wisconsin,Middleton
+158,Medical Equipment Repair Services,1268%,,Florida,Sarasota
+159,DocuSource,1264%,,California,Cerritos
+160,Zaske, Sarafa & Associates,1256%,,Michigan,Birmingham
+161,Zitter Group,1250%,,California,San Francisco
+162,Correction Management Affiliates,1249%,,Tennessee,Nashville
+163,Softsense Computer Products,1249%,,Georgia,Alpharetta
+164,Value Added Distribution,1245%,,Maryland,Gaithersburg
+165,SBA,1239%,,Florida,Boca Raton
+166,National Patient Care Systems,1238%,,New Jersey,S. Hackensack
+167,Best Personalized Books,1233%,,Texas,Dallas
+168,Lyon Company,1233%,,Utah,Salt Lake City
+169,Pacific Construction Management,835%,,California,Riverside
+170,Hot Topic,1224%,,California,Pomona
+171,Waldec Group,1220%,,Florida,Tampa
+172,Morningstar,1212%,,Illinois,Chicago
+173,Adams & Reynolds,1211%,,Ohio,Middleburg Heights
+174,Jelyn Associates/Old Glory,1207%,,Pennsylvania,West Point
+175,Dine-A-Mate,1202%,,New York,Binghamton
+176,King Technologies,1200%,,Tennessee,Trenton
+177,AAA Financial Corporation,1199%,,Florida,Coral Springs
+178,Kestrel Associates,1196%,,Virginia,Falls Church
+179,SETA Corp.,1199%,,Virginia,McLean
+180,Rasna Corporation,1193%,,California,San Jose
+181,Advanced Engineering & Research Associates,1192%,,Virginia,Arlington
+182,TPL, Inc.,1186%,,New Mexico,Albuquerque
+183,Midcom Communications,1185%,,Washington,Seattle
+184,Austin Roofers Supply,1183%,,Texas,Austin
+185,EMCON Associates,1169%,Financial Services,New Jersey,Brick
+186,Kellaway Transportation,1166%,,Massachusetts,Randolph
+187,Personal Creations,1165%,,Illinois,Willowbrook
+188,HCFS,1162%,,Texas,Dallas
+189,Overman Marketing Services,1161%,,Florida,Jacksonville
+190,Dapru,1147%,,California,San Francisco
+191,Flexible Plan Investments,1141%,,Michigan,Bloomfield Hills
+192,LBS Capital Management,1134%,,Florida,Clearwater
+193,Whitlock,1129%,,Virginia,Richmond
+194,Bluestone Consulting,1127%,,New Jersey,Mt. Laurel
+195,Seek Consulting,1126%,Business Products & Services,Massachusetts,Wakefield
+196,Protek Electronics,1126%,,Florida,Sarasota
+197,Hart Brewing,1125%,,Washington,Seattle
+198,SourceOne Computer Corp.,1123%,,California,Campbell
+199,Daryan International,1123%,,California,Montebello
+200,Matrix Health Care Services,1108%,,Michigan,Lansing
+201,CardSystems,1094%,,Texas,Dallas
+202,Associated Insurance & Financial Group,1091%,,New York,Syracuse
+203,Russ Thomas Construction,1091%,,Ohio,Cincinnati
+204,TOPS Malibu, Inc.,1088%,,Oregon,Eugene
+205,Evolving Systems,1088%,Human Resources,Colorado,Englewood
+206,Corporate Health Dimensions,1087%,,New York,Troy
+207,Cambridge Equity Advisors,1077%,,Tennessee,Brentwood
+208,ATS Services (Jacksonville, FL),1071%,,Florida,Jacksonville
+209,Diversified Data Products,1071%,,Michigan,Ann Arbor
+210,Ace Personnel,1066%,,Kansas,Overland Park
+211,Staffing Inc.,1065%,,Michigan,Grand Rapids
+212,Provalco,1058%,,Texas,Houston
+213,Viking Components,1058%,,California,Laguna Hills
+214,Ex Officio,1050%,,Washington,Seattle
+215,Alpine Computer Systems,1048%,,Massachusetts,Holliston
+216,Milcom International,1048%,,California,Irvine
+217,Collins/Reisenbichler Architects,1046%,,Texas,Dallas
+218,Brink Process Systems,1045%,,Georgia,Atlanta
+219,Smith & Associates International,1045%,,Texas,Houston
+220,Now Software,1045%,,Oregon,Portland
+221,Rockies Brewing Company,1038%,,Colorado,Boulder
+222,AEgis Research Corporation,1036%,,Alabama,Huntsville
+223,Microsystems Software,1029%,,Massachusetts,Framingham
+224,Key Medical Supply,1027%,,Louisiana,Thibodaux
+225,Dynamic Cooking Systems,1023%,Business Products & Services,California,Los Alamitos
+226,Sterling Direct,1019%,,Missouri,Earth City
+227,Operational Technologies,1018%,,Texas,San Antonio
+228,Roose-Bezuyen,1013%,,Arizona,Phoenix
+229,Barber Martin Agency,1009%,,Virginia,Richmond
+230,Wintriss Engineering Corp.,1004%,,California,San Diego
+231,Magnum Technologies,996%,,Illinois,Fairview Heights
+232,Herald Pharmacal,996%,,Virginia,Colonial Heights
+233,TeleMark,979%,,Oregon,Portland
+234,Parts Now!,975%,,Wisconsin,Madison
+235,Project Corporation,969%,,California,Los Angeles
+236,CSSI - Computer Support Services,962%,,Texas,Irving
+237,Response Health Care Information Management,959%,,Rhode Island,East Greenwich
+238,Platinum Entertainment,958%,,Illinois,Downers Grove
+239,Enterprise Networking Systems,954%,,California,Redwood City
+240,Computer Systems International,954%,,Virginia,Chesapeake
+241,Direct Impact Company,947%,,Virginia,Alexandria
+242,AGF Direct Gas Sales,942%,,New Hampshire,Manchester
+243,Halton Company,937%,,Kentucky,Glasgow
+244,CME Information Services,936%,,New Jersey,Mt. Laurel
+245,Perkem Technology,927%,,North Carolina,Charlotte
+246,Capitol Business Systems,924%,,Texas,Austin
+247,Virtual Services,923%,,Michigan,Rochester Hills
+248,Linderlake Corporation,918%,,Illinois,Alsip
+249,D.X.I.,917%,,Pennsylvania,Pittsburgh
+250,Grand Aire Express,916%,,Michigan,Monroe
+251,Chiptec,915%,,Alabama,Decatur
+252,Stormfront Studios,915%,,California,San Rafael
+253,Paria Group,908%,,Utah,Orem
+254,Applied Manufacturing Technology,903%,,Utah,Orem
+255,Comstock Homes,893%,,Virginia,McLean
+256,Family Advocacy Services,891%,,Maryland,Catonsville
+257,Burr Wolff Corporation,889%,,Texas,Houston
+258,Pacific Foam Tech.,889%,,California,Ventura
+259,Cellular 2001 of New England,888%,,Massachusetts,Peabody
+260,ERM Program Management Company,884%,,Pennsylvania,Exton
+261,UNITEL,884%,,Massachusetts,Canton
+262,Dynamic Resources (Atlanta, GA),871%,,Georgia,Atlanta
+263,Healthcare Automation,870%,,Rhode Island,Providence
+264,Yaffe & Company,868%,,Michigan,Southfield
+265,CIBT,868%,,Virginia,McLean
+266,Presidio Corporation,865%,,Maryland,Lanham
+267,BSG Corporation,864%,,Texas,Austin
+268,Banyan Construction & Development,864%,,Florida,Clermont
+269,Phelps Tool and Die Company,863%,,Missouri,Kansas City
+270,Dollar Value Stores,860%,,California,West Hills
+271,Triumph Technologies,857%,,Massachusetts,Burlington
+272,Wayzata Technology,856%,,Minnesota,Grand Rapids
+273,ACT Networks,855%,,California,Camarillo
+274,Fugazy Executive Travel,854%,,Massachusetts,Boston
+275,Beechwood Data Systems,841%,,New Jersey,Clark
+276,ALTA Technical Services,840%,,Pennsylvania,West Chester
+277,Custom Cupboards,836%,,Kansas,Wichita
+278,Dominion Capital,835%,,Texas,Dallas
+279,JSA Publishing,835%,,California,Santa Monica
+280,Excel Management Systems,831%,,Ohio,Columbus
+281,MedicaLogic,828%,,Oregon,Hillsboro
+282,Florida Infusion Services,825%,,Florida,Palm Harbor
+283,I-Net,825%,,Maryland,Bethesda
+284,Unidata,823%,,Colorado,Denver
+285,Atlanta Legal Copies,820%,Manufacturing,Georgia,Atlanta
+286,Anstec,820%,,Virginia,Fairfax
+287,McCue Corporation,818%,,Massachusetts,Salem
+288,Zak Designs,815%,,Washington,Airway Heights
+289,Bermello, Ajamil & Partners,814%,,Florida,Miami
+290,PCs Plus Computer Center,812%,,Ohio,Kettering
+291,Graphics Express,811%,,Massachusetts,Boston
+292,Cavanaugh Gallery,808%,,California,Half Moon Bay
+293,Executive Mortgage Bankers,805%,,New York,Melville
+294,Logical Solutions International,802%,,New Jersey,Atco
+295,Summit Technical Services,798%,,Rhode Island,Warwick
+296,Mobius Computer Corporation,796%,,California,Pleasanton
+297,Hedy Holmes Staffing Service,792%,,California,Stockton
+298,National Safety Alliance Corporation,791%,,Tennessee,Nashville
+299,Promark One Marketing Services,784%,,Arizona,Phoenix
+300,Broadband Communications Products,784%,,Florida,Melbourne
+301,R & D Laboratories,776%,,California,Marina del Rey
+302,MFI Investments,769%,,Ohio,Bryan
+303,Max Distribution,769%,,Texas,Dallas
+304,Millennium Computer Corp.,766%,,New York,Rochester
+305,Love Medical,751%,Advertising & Marketing,Utah,Salt Lake City
+306,Orion Network Systems,752%,,Maryland,Rockville
+307,Coldwater Creek,750%,,Idaho,Sandpoint
+308,5WPR,748%,,New York,New York
+309,National Catastrophe Adjusters,744%,,Indiana,Fishers
+310,Panda Energy Corp.,741%,,Texas,Dallas
+311,Custom Transportation Service,741%,,Massachusetts,Braintree
+312,LaserMax,739%,,New York,Rochester
+313,Green Spring Health Services,736%,,Maryland,Columbia
+314,Grafton,733%,,Missouri,Kansas City
+315,Daydots Label Co.,732%,,Texas,Fort Worth
+316,Energy Consortium,732%,,New Jersey,Iselin
+317,Medical Alliance,731%,,Texas,Irving
+318,Impact Telemarketing,728%,,New Jersey,Woodbury
+319,Larkin Industries,726%,,Alabama,Birmingham
+320,Key Temporaries,726%,,Georgia,Atlanta
+321,Superior Pharmaceutical Company,723%,,Ohio,Cincinnati
+322,Donovan Group,723%,,Massachusetts,Worcester
+323,Corporate Child Care Management Services,721%,,Tennessee,Nashville
+324,Computers, Etc. of New Hampshire,717%,,New Hampshire,Bedford
+325,Payroll Transfers,716%,Business Products & Services,Florida,Tampa
+326,Boxlight,715%,,Washington,Poulsbo
+327,Future Tech International,715%,,Florida,Miami
+328,Lens Express,714%,,Florida,Deerfield Beach
+329,Lexi International,713%,,California,Los Angeles
+330,Airs International,710%,,California,Capitola
+331,Allegiance Group,709%,,New York,Bellmore
+332,AMMEX Corporation,708%,,Washington,Kent
+333,SkillPath,707%,,Kansas,Mission
+334,MAF Ground Services,706%,,Oklahoma,Tulsa
+335,VisionTek,705%,,Illinois,Gurnee
+336,Mustang Software,705%,,California,Bakersfield
+337,Software Express,702%,,North Carolina,Charlotte
+338,MicroSupply, Inc.,701%,,Washington,Bellevue
+339,Tectrix Fitness Equipment,700%,,California,Irvine
+340,Super 1 Inc.,700%,,Georgia,Conyers
+341,Sweetwater Sound,699%,,Indiana,Fort Wayne
+342,Lamont Television Systems,697%,,Connecticut,Greenwich
+343,Windmill International,694%,,New Hampshire,Nashua
+344,Wellington Management Corp.,694%,,Wisconsin,Brookfield
+345,Corporate Environments,694%,Engineering,Georgia,Atlanta
+346,HBS Computers,694%,,Illinois,Lisle
+347,Commercial Financial Services,687%,,Oklahoma,Tulsa
+348,Phonexpress,687%,,New Jersey,Fairfield
+349,MJ Research,687%,,Massachusetts,Watertown
+350,Network USA,686%,,Florida,Pensacola
+351,Tybrin Corp.,684%,,Florida,Shalimar
+352,Cost Management Systems,683%,,Virginia,Vienna
+353,Select Design,682%,,Vermont,Burlington
+354,Digicon,681%,,Maryland,Bethesda
+355,Allied Telesyn International,681%,,California,Sunnyvale
+356,ComPro Systems,676%,,Maryland,Jessup
+357,Lai, Venuti & Lai,675%,,California,Santa Clara
+358,Legato Systems,675%,,California,Palo Alto
+359,M.I.G. Supply Co.,670%,,Indiana,Columbus
+360,National IPF Company,669%,,Arizona,Mesa
+361,Fox Integrated Technologies,667%,,California,San Jose
+362,CKS Group,665%,,California,Cupertino
+363,RWD Technologies,664%,,Maryland,Baltimore
+364,Park City Group,664%,,Utah,Park City
+365,Evinco,662%,Human Resources,Tennessee,Alcoa
+366,PNY Electronics,661%,,New Jersey,Moonachie
+367,CMS Automation,661%,,Virginia,Richmond
+368,Special Teams,661%,,South Dakota,Brookings
+369,Friendship Manor Homes,658%,,Wisconsin,Sun Prairie
+370,Atlantic Network Systems,657%,,North Carolina,Cary
+371,Trandes,656%,,Maryland,Lanham
+372,World of Science,655%,,New York,Rochester
+373,Matrix Computer Systems,652%,,Michigan,Troy
+374,Programmed Solutions,651%,,Connecticut,Stamford
+375,CMD Technology,650%,,California,Irvine
+376,Century Personnel,649%,,Kansas,Overland Park
+377,Raymond Karsan Associates,649%,,Pennsylvania,Wayne
+378,Lokring Corporation,648%,,California,Foster City
+379,Computer Corner,646%,,New Mexico,Albuquerque
+380,Summit Medical Systems,645%,,Minnesota,Minneapolis
+381,Alpha Telcom,641%,,Oregon,Grants Pass
+382,Trellis Communications Corp.,640%,,New Hampshire,Manchester
+383,Mendez,640%,,Colorado,Grand Junction
+384,Magic Box,638%,,Florida,Miami
+385,Eagle Point,638%,,Iowa,Dubuque
+386,Main Street Athletic Club,636%,,California,Campbell
+387,Avalon Natural Cosmetics,636%,,California,Petaluma
+388,Professional Resources,635%,,Kansas,Merriam
+389,Metamor Technologies,635%,,Illinois,Chicago
+390,Swift Office Solutions,633%,,Arizona,Tempe
+391,Premier Car Rental,633%,,Ohio,Beachwood
+392,ViaSat,629%,,California,Carlsbad
+393,Strategic Technologies,625%,,North Carolina,Cary
+394,Power Source Distributors,624%,,Tennessee,Burns
+395,Hamlin, Power and Reaves,623%,,Illinois,Springfield
+396,Preferred Communication Corporation,620%,,New York,Valley Stream
+397,Telamon,620%,,Indiana,Indianapolis
+398,Univenture,619%,,Ohio,Columbus
+399,Zweig White & Associates,618%,,Massachusetts,Natick
+400,Pittsburgh Plastics Mfg.,617%,,Pennsylvania,Zelienople
+401,K&M Engineering & Consulting Corp.,617%,,District of Columbia,Washington
+402,Christian & Timbers,616%,,Ohio,Beachwood
+403,MicroBiz Corp.,615%,,New Jersey,Mahwah
+404,Saturn Electronics & Engineering,611%,,Michigan,Auburn Hills
+405,Auntie Anne's,610%,Food & Beverage,Pennsylvania,Lancaster
+406,Westar Systems,608%,,California,Santa Ana
+407,Software Maintenance,608%,,California,Santa Ana
+408,US Computer Maintenance,602%,,New York,Farmingdale
+409,Knowledge Systems Corp.,602%,,North Carolina,Cary
+410,Carstar Automotive,600%,,Kansas,Overland Park
+411,Classic Computer Systems,599%,,Georgia,Norcross
+412,Hill Physicians Medical Group,597%,,California,San Ramon
+413,Select Publishing,594%,,Wisconsin,Madison
+414,R2 Register Resale,594%,,Minnesota,Eagan
+415,Virtual Reality Labs.,593%,,California,San Luis Obispo
+416,FUNacho,590%,,Ohio,Cincinnati
+417,QCC,589%,,Massachusetts,Westwood
+418,Faxplus,589%,,Virginia,Arlington
+419,Vincam Group,588%,,Florida,Coral Gables
+420,Wyland Studios,588%,,California,Laguna Beach
+421,Integrated Concepts Group,587%,,Michigan,Troy
+422,Abacus Technology,586%,,Maryland,Chevy Chase
+423,Access Computer Products,584%,,Michigan,Ann Arbor
+424,Sports Endeavors,584%,,North Carolina,Hillsborough
+425,HydroLogic,583%,,North Carolina,Asheville
+426,Pacific Access Computers,583%,,California,Rancho Cordova
+427,Original American Scones,581%,,Illinois,Oak Park
+428,American Echo,580%,,Missouri,Kansas City
+429,TempExchange and Tech Exchange,574%,,Michigan,Southfield
+430,Facilities Management Company,572%,,Maryland,Largo
+431,Flexible Personnel,572%,,Indiana,Fort Wayne
+432,Compliance Services International,571%,,Washington,Tacoma
+433,Pride and Country,569%,,Michigan,Saginaw
+434,Haas Automation,566%,,California,Oxnard
+435,Continuus Software,566%,,California,Irvine
+436,Information Systems & Services,565%,,Maryland,Silver Spring
+437,Poly Tech,563%,,Arizona,Phoenix
+438,Preferred Staffing,563%,,Illinois,Rolling Meadows
+439,Scottsdale Securities,562%,,Missouri,St Louis
+440,Flash Creative Management,561%,,New Jersey,Hackensack
+441,Let's Talk Cellular & Wireless,561%,,Florida,Miami
+442,Sounds True,560%,,Colorado,Boulder
+443,In-A-Flash,559%,,Pennsylvania,Pittsburgh
+444,Kitty Hawk Group,559%,,Texas,DFW Airport
+445,Tricom Inc. of Milwaukee,558%,,Wisconsin,Milwaukee
+446,Ultimate Prospecting Services,558%,,Massachusetts,Marlborough
+447,Suburban Middlesex Insulation,557%,,Massachusetts,Watertown
+448,Coverall of the Twin Cities,554%,,Minnesota,Bloomington
+449,Systems Consulting Group,553%,,Florida,Miami
+450,Bob's Flags,553%,,North Carolina,Pineville
+451,Voice-Tel Enterprises,549%,,Ohio,Cleveland
+452,Bennett's Cycle,548%,,Minnesota,St. Louis Park
+453,Eagle USA Air Freight,548%,,Texas,Houston
+454,Arnold & Madson,547%,,Minnesota,Woodbury
+455,Technology Solutions,546%,,New York,New York City
+456,Computer CenterLine,545%,,Pennsylvania,Greensburg
+457,S.N.G. Spice Products,545%,,California,Camarillo
+458,Three-C Body Shop,544%,,Ohio,Columbus
+459,Calzone & Co.,544%,,Washington,Redmond
+460,Campbell Services,544%,,Michigan,Southfield
+461,Sonnet Software,542%,,New York,Liverpool
+462,I/O Data Systems,542%,,Ohio,Bay Village
+463,CottageCare,541%,,Kansas,Overland Park
+464,Acousti-Clean,541%,,Florida,Daytona Beach
+465,CompuWorks,539%,Software,Massachusetts,Pittsfield
+466,Pacific Pioneer Corp.,538%,,California,Artesia
+467,Princeton Softech,538%,,New Jersey,Princeton
+468,Radar Sales,538%,,Minnesota,Minneapolis
+469,Great American Swing Company,537%,,Georgia,Norcross
+470,Roddy Temporary Services,537%,,Michigan,Ann Arbor
+471,Innosoft International,537%,,California,West Covina
+472,Hawkeye Health Services.,537%,,Iowa,Knoxville
+473,Mastech Systems Corp.,536%,,Pennsylvania,Oakdale
+474,Patton General Contracting,535%,,South Carolina,Summerville
+475,AE Business Solutions,535%,,Wisconsin,Middleton
+476,Telecommunication Systems Management,535%,,Virginia,Sterling
+477,Logistix,534%,,California,Fremont
+478,Contract Marketing,534%,,Ohio,Mentor
+479,Michrom BioResources,534%,,California,Auburn
+480,MDP Construction,534%,,Colorado,Colorado Springs
+481,Horizon Music,533%,,Missouri,Cape Girardeau
+482,Computer Gallery,531%,,California,Cathedral City
+483,HealthDrive Corporation,531%,,Massachusetts,Newton
+484,Flamers Charburgers,529%,,Florida,Jacksonville Beach
+485,Sequoia Group,529%,,Georgia,Atlanta
+486,Advanced Micro-Electronics,526%,,Indiana,Vincennes
+487,Transfer Express,525%,,Ohio,Mentor
+488,Allen-Culton,525%,,Alabama,Birmingham
+489,Raynor Computer Services,525%,,Texas,Houston
+490,Easy Systems,525%,,Minnesota,Trimont
+491,PIA Merchandising Co.,524%,,California,Irvine
+492,Magellan's International Travel,523%,,California,Santa Barbara
+493,Atlantic Search Group,522%,,North Carolina,Cary
+494,Sylvest Management Systems Corp.,519%,,Maryland,Lanham
+495,One Half Off Card Shop,519%,Construction,Michigan,Southfield
+496,Zeitech,518%,,New York,New York City
+497,Lloyd Creative Temporaries,517%,,Illinois,Des Plaines
+498,Floors By Design,516%,,Arizona,Phoenix
+499,SolarCare Technologies Corp.,516%,,Pennsylvania,Bethlehem
+500,IntelliQuest,515%,,Texas,Austin
