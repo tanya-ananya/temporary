@@ -1,0 +1,86 @@
+* {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+html {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+header, main {
+    margin: 0 4%;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar ul {
+    z-index: 1000;
+    color: #103e1f;
+    list-style-type: none;
+}
+
+.navbar ul li {
+    float: left;
+    margin: 10px;
+}
+
+.navbar ul li a:hover {
+    color: blue;
+}
+
+.navbar ul li a:visited {
+    color: inherit;
+}
+
+h1 {
+    text-align: center;
+}
+
+.header-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.books {
+    width: 15%;
+}
+
+footer {
+    height: 55px;
+    text-align: center;
+    background-color: var(--footer-background-color);
+}
+
+footer img {
+    padding-top: 0.9%;
+    width: 4.5%;
+    display: inline-block;
+}
+
+:root {
+    /* Light Mode */
+    --bg-color: #f2ebdc;
+    --text-color: #05220e;
+    --footer-background-color: #ded4bd;
+
+    /* Dark Mode */
+    --bg-color-dark-mode: #103e1f;
+    --text-color-dark-mode: #fff;
+
+    /* Accent Colors */
+    --accent-color-light: #d2cff5;
+    --accent-color-medium: #684fb5;
+    --accent-color-dark: #482f95;
+    --accent-color-darkest: #231942;
+    --accent-color-green: #28eb76;
+
+    /* Error Colors */
+    --error-color: #f8bbd0;
+    --error-color-border: #e63946;
+}
